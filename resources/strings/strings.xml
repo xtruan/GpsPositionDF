@@ -1,0 +1,14 @@
+<strings>
+    <string id="AppName">GPS Position</string>
+    <string id="GPSFormatTitle">GPS Format</string>
+    <string id="PageIntervalTitle">Page Interval</string>
+    <string id="item_deg">Degs</string>
+    <string id="item_dm">Degs/Mins</string>
+    <string id="item_dms">Degs/Mins/Secs</string>
+    <string id="item_utm">UTM (WGS84)</string>
+    <string id="item_usng">USNG (WGS84)</string>
+    <string id="item_mgrs">MGRS (WGS84)</string>
+    <string id="item_ukgr">UK Grid (OSGB36)</string>
+    <string id="item_five_sec">5 Seconds</string>
+    <string id="item_ten_sec">10 Seconds</string>
+</strings>

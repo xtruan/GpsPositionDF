@@ -1,0 +1,4 @@
+<properties>
+    <property id="GPSFormat" type="number">2</property>
+    <property id="PageInterval" type="number">5</property>
+</properties>
