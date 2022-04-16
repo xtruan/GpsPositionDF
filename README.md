@@ -10,4 +10,5 @@ Simple data field to display current position information in a variety of differ
 Tested on simulator for all supported devices and on Forerunner 55 and vivoactive hardware.
 
 Changelog:
+* 3.0.2 - Added support for additional devices.
 * 3.0 - Initial release as a Data Field. For the Application version, see: https://apps.garmin.com/en-US/apps/12097123-2f57-4d59-afd7-2887c54c0732
